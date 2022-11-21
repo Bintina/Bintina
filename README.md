@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bintina
-- 👀 I’m interested in SQL and Android
+- 👀 I’m interested in Application Product Design and Android
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m still too green to collaborate.
+- 💞️ I would love to collaborate on designing products that fulfill the clients directions and help them figure out what they want out of their applications.
 - 📫 dellyemaya@gmail.com
 
 <!---
