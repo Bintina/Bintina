@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bintina
 - 👀 I’m interested in Mobile Application Product Design, Android and building websites the gooey way.
 - 🌱 I’m currently learning Kotlin
-- 💞️ I would love to collaborate on designing products that fulfill the clients directions and help them figure out what they want out of their applications.
+- 💞️ I would love to learn from more experienced developers and work in diverse spaces.
 - 📫 binti@bintinabytes.com
 - bintinabytes.com
 
